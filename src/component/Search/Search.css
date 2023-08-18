@@ -1,0 +1,12 @@
+.BOXX{
+    width:350px;
+    border-radius: 10px;
+    border: 2px solid rgba(195, 195, 195, 0.984);
+
+}
+.Search__Line{
+border: none;
+outline: none;
+width: 280px;
+
+}

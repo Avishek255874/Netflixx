@@ -1,0 +1,18 @@
+.Pox {
+  
+    width: 35px;
+    height: 35px;
+
+    position: absolute;
+    top: -20px;
+    border-radius: 8px;
+}
+
+.Sizee {
+
+    font-size: 8px;
+}
+
+.Size {
+    font-size: 12px;
+}
